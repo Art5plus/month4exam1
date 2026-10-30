@@ -1,6 +1,7 @@
 import 'package:bloc/bloc.dart';
-import 'package:exam1/HomePage/Repository.dart';
 import 'package:meta/meta.dart';
+
+import '../../data/repository/Repository.dart';
 
 part 'fox_event.dart';
 part 'fox_state.dart';

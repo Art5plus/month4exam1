@@ -1,6 +1,7 @@
-import 'package:exam1/HomePage/fox_bloc.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+
+import 'fox_bloc.dart';
 
 class ImageFoxPage extends StatefulWidget {
   const ImageFoxPage({super.key});
